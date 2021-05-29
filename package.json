@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Responsive Website",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekazakoff/portfolio_modern.git"
+  },
+  "author": "codekazakoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codekazakoff/portfolio_modern/issues"
+  },
+  "homepage": "https://github.com/codekazakoff/portfolio_modern#readme"
+}
