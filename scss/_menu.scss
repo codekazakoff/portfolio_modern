@@ -111,6 +111,12 @@
             color : $secondary-color;
             @include easeOut;
         }
+
+        .portreit{
+            background : url(../dist/img/portrait_small.jpg);
+            width : 150px;
+            height : 150px;
+        }
     }
 }
 
